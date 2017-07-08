@@ -1,5 +1,5 @@
-this is a line 1 changed by branch1
-this is a line 2
+aaathis is a line 1 changed by branch1
+bbbthis is a line 2
 
 added by branch 1
 
