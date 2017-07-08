@@ -1,5 +1,9 @@
-this is a line 1 changed by branch1
-this is a line 2
+[[[[[[[[[[[this is a line 1 changed by branch1
+]]]]]]]]]]]]]]this is a line 2
+=======
+aaathis is a line 1 changed by branch1
+bbbthis is a line 2
+>>>>>>> 8e35db56a20f2424a8b34230900e37e80984fe0c
 
 added by branch 1
 
